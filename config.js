@@ -26,10 +26,10 @@ module.exports = {
   nodes: [
       {
       name: "Rafix32434",
-      password: "rafix",
-      host: "",
-      port: 1134,
-      secure: false
+      password: "youshallnotpass",
+      host: "lavalink.jirayu.net",
+      port: 443,
+      secure: true
     }
   ]
 }
